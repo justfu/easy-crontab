@@ -1,7 +1,9 @@
-# easy-crontab
-做Go最简单的定时任务调度器
+<a href="https://github.com/justfu?tab=followers"> <img src="https://img.shields.io/github/followers/justfu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 
-## 开箱即用
+# easy-crontab
+做Go最简单的定时任务调度器,开箱即用,只用部署一次,即可调度所有定时任务
+
+## 使用教程
 1. 在/job下按照示例新增任务
 2. 在easy.go里面新增方法将任务调度器初始化
 ```go
