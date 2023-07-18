@@ -1,4 +1,4 @@
-package easy
+package main
 
 import (
 	"easy-crontab/job"
