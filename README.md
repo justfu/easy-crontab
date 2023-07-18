@@ -1,5 +1,4 @@
-<a href="https://github.com/justfu?tab=followers"> <img src="https://img.shields.io/github/followers/justfu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
-基于 https://github.com/reugn/go-quartz 进行二次封装
+> 基于 https://github.com/reugn/go-quartz 进行二次封装
 # easy-crontab
 做Go最简单的定时任务调度器,开箱即用,只用部署一次,即可调度所有定时任务
 
